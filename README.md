@@ -1,2 +1,3 @@
 # skills-repo-portal
-Imgi custom skills used on poersonl
+
+My personal collection of Claude skills.
